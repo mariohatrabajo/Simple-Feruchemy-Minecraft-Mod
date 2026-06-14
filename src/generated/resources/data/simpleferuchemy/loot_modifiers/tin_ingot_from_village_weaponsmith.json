@@ -1,0 +1,12 @@
+{
+  "type": "simpleferuchemy:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/village/village_weaponsmith"
+    }
+  ],
+  "item": "simpleferuchemy:tin_ingot",
+  "probability": 0.3,
+  "rolls": 4
+}

@@ -1,0 +1,12 @@
+{
+  "type": "simpleferuchemy:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/stronghold_library"
+    }
+  ],
+  "item": "simpleferuchemy:copper_ring",
+  "probability": 0.5,
+  "rolls": 1
+}

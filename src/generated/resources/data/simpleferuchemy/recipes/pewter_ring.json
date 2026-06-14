@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "simpleferuchemy:pewter_ingot"
+    }
+  },
+  "pattern": [
+    " i ",
+    "i i",
+    " i "
+  ],
+  "result": {
+    "item": "simpleferuchemy:pewter_ring"
+  },
+  "show_notification": true
+}

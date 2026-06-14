@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " i ",
+    "i i",
+    " i "
+  ],
+  "result": {
+    "item": "simpleferuchemy:steel_ring"
+  },
+  "show_notification": true
+}

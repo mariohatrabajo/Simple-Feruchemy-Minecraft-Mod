@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simpleferuchemy:pewter_ring"
+    },
+    {
+      "item": "simpleferuchemy:pewter_ring"
+    },
+    {
+      "item": "simpleferuchemy:pewter_ring"
+    }
+  ],
+  "result": {
+    "item": "simpleferuchemy:pewter_bracelet"
+  }
+}

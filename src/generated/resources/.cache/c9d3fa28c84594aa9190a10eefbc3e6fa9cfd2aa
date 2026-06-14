@@ -1,0 +1,5 @@
+// 1.20.1	2025-11-28T13:55:43.0701229	Tags for minecraft:block mod id simpleferuchemy
+49a96fedc8f3dd0f483456e5684970e39ae7f165 data/minecraft/tags/blocks/mineable/pickaxe.json
+1e0dd17d6fa9c653a8aa306a2d2174f1eb712562 data/minecraft/tags/blocks/needs_diamond_tool.json
+5920e4128c5b367fd5860b25b43b88f11d9b8a97 data/minecraft/tags/blocks/needs_iron_tool.json
+3853c38e5c553a715cb06b98901f36088a58cf8c data/minecraft/tags/blocks/needs_stone_tool.json

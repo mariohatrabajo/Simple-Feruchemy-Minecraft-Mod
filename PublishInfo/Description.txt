@@ -1,0 +1,32 @@
+Simple Feruchemy is a mod that adds feruchemic rings and bracelets from Mistborn, by Brandon Sanderson.
+
+In these rings you can store physical capabilities like speed, strength or energy, leaving you weak while storing it, but allowing you to access those reserves later on.
+
+In practice, this rings let you store potion effects for later use, as well as other effects that aren't potion related.
+
+
+This mod also adds a few ores and alloys used to craft rings and bracelets.
+
+
+
+Implemented rings:
+
+Steel: stores physical Speed.
+
+Tin: stores Night Vision.
+
+Pewter: stores Strength.
+
+Zinc: stores Haste.
+
+Gold: stores Regeneration.
+
+Bendalloy: stores Hunger.
+
+Copper: stores Text.
+
+Brass: stores Fire Resistance.
+
+Nicrosil: stores Experience.
+
+ 

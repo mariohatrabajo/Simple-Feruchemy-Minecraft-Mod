@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simpleferuchemy:tin_ring"
+    },
+    {
+      "item": "simpleferuchemy:tin_ring"
+    },
+    {
+      "item": "simpleferuchemy:tin_ring"
+    }
+  ],
+  "result": {
+    "item": "simpleferuchemy:tin_bracelet"
+  }
+}

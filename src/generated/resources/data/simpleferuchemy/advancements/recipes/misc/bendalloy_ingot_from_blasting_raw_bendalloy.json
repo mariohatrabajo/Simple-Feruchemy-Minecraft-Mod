@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_bendalloy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simpleferuchemy:raw_bendalloy"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "simpleferuchemy:bendalloy_ingot_from_blasting_raw_bendalloy"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_bendalloy",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "simpleferuchemy:bendalloy_ingot_from_blasting_raw_bendalloy"
+    ]
+  },
+  "sends_telemetry_event": false
+}

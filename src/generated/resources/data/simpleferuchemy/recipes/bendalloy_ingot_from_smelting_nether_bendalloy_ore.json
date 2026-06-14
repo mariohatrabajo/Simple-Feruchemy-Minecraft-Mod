@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "bendalloy",
+  "ingredient": {
+    "item": "simpleferuchemy:nether_bendalloy_ore"
+  },
+  "result": "simpleferuchemy:bendalloy_ingot"
+}

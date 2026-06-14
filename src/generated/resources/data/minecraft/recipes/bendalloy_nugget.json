@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simpleferuchemy:bendalloy_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "simpleferuchemy:bendalloy_nugget"
+  }
+}

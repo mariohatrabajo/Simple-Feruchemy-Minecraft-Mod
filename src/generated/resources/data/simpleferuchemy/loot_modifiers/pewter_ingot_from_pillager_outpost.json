@@ -1,0 +1,12 @@
+{
+  "type": "simpleferuchemy:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/pillager_outpost"
+    }
+  ],
+  "item": "simpleferuchemy:pewter_ingot",
+  "probability": 0.8,
+  "rolls": 2
+}

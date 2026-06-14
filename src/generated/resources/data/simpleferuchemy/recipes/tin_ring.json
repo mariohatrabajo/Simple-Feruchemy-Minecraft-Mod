@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": {
+      "item": "simpleferuchemy:tin_ingot"
+    }
+  },
+  "pattern": [
+    " i ",
+    "i i",
+    " i "
+  ],
+  "result": {
+    "item": "simpleferuchemy:tin_ring"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simpleferuchemy:nicrosil_ring"
+    },
+    {
+      "item": "simpleferuchemy:nicrosil_ring"
+    },
+    {
+      "item": "simpleferuchemy:nicrosil_ring"
+    }
+  ],
+  "result": {
+    "item": "simpleferuchemy:nicrosil_bracelet"
+  }
+}

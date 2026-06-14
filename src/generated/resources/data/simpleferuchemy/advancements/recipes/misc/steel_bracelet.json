@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_steel_ring": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "simpleferuchemy:steel_ring"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "simpleferuchemy:steel_bracelet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_steel_ring",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "simpleferuchemy:steel_bracelet"
+    ]
+  },
+  "sends_telemetry_event": false
+}

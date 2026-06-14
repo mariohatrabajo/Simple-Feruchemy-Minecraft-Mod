@@ -1,0 +1,12 @@
+{
+  "type": "simpleferuchemy:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/end_city_treasure"
+    }
+  ],
+  "item": "simpleferuchemy:nicrosil_ingot",
+  "probability": 0.3,
+  "rolls": 3
+}

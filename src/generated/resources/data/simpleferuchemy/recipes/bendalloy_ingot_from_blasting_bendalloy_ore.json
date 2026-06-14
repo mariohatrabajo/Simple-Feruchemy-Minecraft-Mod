@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "bendalloy",
+  "ingredient": {
+    "item": "simpleferuchemy:bendalloy_ore"
+  },
+  "result": "simpleferuchemy:bendalloy_ingot"
+}
